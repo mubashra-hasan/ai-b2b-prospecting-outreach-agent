@@ -26,11 +26,8 @@ The system combines **AI agents, structured outputs, workflow automation, data v
 
 ## Workflow Architecture
 
-<p align="center">
+<img width="819" height="393" alt="image" src="https://github.com/user-attachments/assets/d4095747-d479-4d0d-a266-e56b668e14a6" />
 
-<img width="900" alt="AI B2B Prospecting & Outreach Agent Workflow" src="PASTE-YOUR-GITHUB-WORKFLOW-IMAGE-URL-HERE">
-
-</p>
 
 ### Pipeline
 
