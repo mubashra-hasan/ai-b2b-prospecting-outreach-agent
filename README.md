@@ -4,13 +4,10 @@
 
 <p align="center">
 
-![n8n](<img width="397" height="286" alt="AI Agent PE" src="https://github.com/user-attachments/assets/c5b15950-3068-4257-93fa-8628a0cd11ec" />
-)
-![AI](<img width="397" height="286" alt="AI Agent icp" src="https://github.com/user-attachments/assets/8d79cfe4-eb4a-4976-b6af-e153d8773bbf" />)
-
-![Google Sheets](<img width="358" height="257" alt="google sheeeeth" src="https://github.com/user-attachments/assets/9577685c-3036-472e-b642-83c8ca51cfaa" />
-)
-![Email](<img width="361" height="218" alt="email" src="https://github.com/user-attachments/assets/5816dc9d-4181-4b0d-97fe-860ddfa6f829" />
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Automation-412991?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Integration-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Email](https://img.shields.io/badge/Email-Automation-4285F4?style=for-the-badge&logo=gmail&logoColor=white)
 )
 
 </p>
